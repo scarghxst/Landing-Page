@@ -1,0 +1,27 @@
+.main-bg {
+    background-image: url(../img/main-bg.svg);
+    background-position: center ;
+    border-bottom:1px solid rgb(0, 0, 0);
+    color: var(--white);
+    box-shadow: 1rem 2rem 3rem black;
+}
+
+.white-bg {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: var(--gap);
+    text-align: center;
+}
+
+.section {
+    min-height: 100vh;
+}
+
+.menu-spacing {
+   height: 65px;
+}
